@@ -1,0 +1,11 @@
+body * {
+    font-family: monospace !important;
+}
+
+th {
+    background-color: #ddd;
+}
+
+td {
+    white-space: preserve nowrap;
+}
